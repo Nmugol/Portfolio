@@ -1,0 +1,111 @@
+#blob {
+  aspect-ratio: 500/1000;
+  width: 100%;
+  background-position: center;
+  background-size: cover;
+  background-image: url("../Img/layered-waves-haikei.svg");
+  background-repeat: no-repeat;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1;
+}
+
+.bacground {
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-width: 100%;
+  min-height: 100%;
+  overflow: hidden;
+  z-index: -2;
+}
+
+@keyframes bg-animatrin {
+  0% {
+    background-position: left;
+  }
+  100% {
+    background-position: right;
+  }
+}
+#bg0 {
+  background: rgb(128, 248, 73);
+  background: linear-gradient(75deg, rgb(238, 249, 29) 15%, rgb(128, 248, 73) 28%, rgb(93, 247, 104) 48%, rgb(47, 246, 118) 74%, rgb(0, 245, 162) 100%);
+  background-size: 400%;
+  animation: bg-animatrin 30s infinite alternate;
+  z-index: -2;
+}
+
+#bg1 {
+  background: rgb(108, 47, 246);
+  background: linear-gradient(75deg, rgb(29, 205, 249) 15%, rgb(73, 169, 248) 28%, rgb(104, 93, 247) 48%, rgb(108, 47, 246) 74%, rgb(162, 0, 245) 94%);
+  background-size: 400%;
+  animation: bg-animatrin 30s infinite alternate;
+  z-index: -2;
+}
+
+#bg2 {
+  background: rgb(179, 47, 246);
+  background: linear-gradient(75deg, rgb(108, 29, 249) 0%, rgb(136, 73, 248) 23%, rgb(166, 93, 247) 46%, rgb(179, 47, 246) 70%, rgb(236, 0, 245) 96%);
+  background-size: 400%;
+  animation: bg-animatrin 30s infinite alternate;
+  z-index: -2;
+}
+
+#bg3 {
+  background: rgb(248, 73, 125);
+  background: linear-gradient(75deg, rgb(249, 29, 131) 0%, rgb(248, 73, 125) 23%, rgb(247, 93, 93) 46%, rgb(246, 115, 47) 70%, rgb(245, 92, 0) 96%);
+  background-size: 400%;
+  animation: bg-animatrin 30s infinite alternate;
+  z-index: -2;
+}
+
+nav {
+  font-family: "Lato", sans-serif;
+  display: flex;
+  justify-content: flex-end;
+  font-size: 1.5rem;
+  font-weight: 500;
+  gap: 0.5rem;
+  margin-right: 1rem;
+  margin-top: 0.5rem;
+}
+
+.button {
+  border-radius: 20rem;
+  padding: 0.5rem 0.7rem;
+}
+
+#b0 {
+  background-color: rgb(128, 248, 73);
+}
+
+#b1 {
+  background-color: rgb(108, 47, 246);
+}
+
+#b2 {
+  background-color: rgb(179, 47, 246);
+}
+
+#b3 {
+  background-color: rgb(248, 73, 125);
+}
+
+#active {
+  background-color: none;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+a, a:active, a:visited {
+  text-decoration: none;
+  color: black;
+}
+
+/*# sourceMappingURL=style.css.map */

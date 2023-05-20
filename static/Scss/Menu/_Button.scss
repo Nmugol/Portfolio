@@ -1,0 +1,29 @@
+@use "../Variable/" as v;
+
+.button
+{
+    border-radius: 20rem;
+    padding: 0.5rem 0.7rem;
+}
+
+#b0
+{
+    background-color: v.$green;
+}
+#b1
+{
+    background-color: v.$blue;
+}
+#b2
+{
+    background-color: v.$purple;
+}
+#b3
+{
+    background-color: v.$red;
+}
+
+#active
+{
+    background-color: none;
+}

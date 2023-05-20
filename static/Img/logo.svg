@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="496px"
+   height="428px"
+   viewBox="0 0 42.484222 36.686695"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="rysunek.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="4"
+     inkscape:cx="183"
+     inkscape:cy="103.25"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <filter
+       inkscape:label="Fluorescence"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Oversaturate colors which can be fluorescent in real world"
+       style="color-interpolation-filters:sRGB"
+       id="filter1845"
+       x="-0.13423738"
+       y="-0.68808711"
+       width="1.2684634"
+       height="2.3761742">
+      <feColorMatrix
+         type="hueRotate"
+         values="0"
+         id="feColorMatrix1839" />
+      <feColorMatrix
+         type="saturate"
+         values="1"
+         id="feColorMatrix1841" />
+      <feColorMatrix
+         type="matrix"
+         values="2 -1 0 0 0 0 2 -1 0 0 -1 0 2 0 0 0 0 0 1 0 "
+         id="feColorMatrix1843" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Warstwa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-38.107469,-6.975518)">
+    <g
+       id="g2849">
+      <path
+         id="path1156"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.0937871;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal;filter:url(#filter1845)"
+         d="m 42.642875,15.760278 h -0.349333 v 0.556039 a 17.471369,17.471369 0 0 1 0.349333,-0.556039 z" />
+      <path
+         id="rect1567"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.54048;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal;filter:url(#filter1845)"
+         d="m 54.022026,14.2012 v 0.392741 H 77.452637 V 14.2012 Z"
+         transform="matrix(0.99960069,0,0,1.0353344,0.02624957,-0.52034664)" />
+      <path
+         id="rect1567-6"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.54048;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal;filter:url(#filter1845)"
+         d="m 57.771667,28.154354 v 0.392741 h 19.68097 v -0.392741 z"
+         transform="matrix(0.99891373,0,0,1.0818507,0.07344534,-2.2937649)" />
+      <path
+         id="rect1567-6-0"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.54048;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal;filter:url(#filter1845)"
+         d="m 56.93761,42.228947 v 0.392741 h 20.515027 v -0.392741 z"
+         transform="matrix(0.99923102,0,0,1.0600432,0.0516714,-2.5670287)" />
+      <path
+         id="path1116-3-6"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.602081;stroke-linejoin:round;stroke-dasharray:none"
+         d="M 56.450818,7.2765584 A 18.042337,18.042337 0 0 0 38.408508,25.318868 18.042337,18.042337 0 0 0 56.450818,43.361178 18.042337,18.042337 0 0 0 74.493127,25.318868 18.042337,18.042337 0 0 0 56.450818,7.2765584 Z m 0,1.350822 A 16.691086,16.691086 0 0 1 73.141789,25.318868 16.691086,16.691086 0 0 1 56.450818,42.009839 16.691086,16.691086 0 0 1 39.759847,25.318868 16.691086,16.691086 0 0 1 56.450818,8.6273804 Z" />
+      <path
+         id="path1223"
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         d="m 58.739535,14.530279 a 8.0813427,7.6008749 0 0 0 -0.01344,5.16e-4 v 27.28464 a 8.0813427,7.6008749 0 0 0 0.01344,5.17e-4 8.0813427,7.6008749 0 0 0 8.081682,-7.601087 8.0813427,7.6008749 0 0 0 -3.18224,-6.044075 8.0813427,7.6008749 0 0 0 3.18224,-6.039425 8.0813427,7.6008749 0 0 0 -8.081682,-7.601086 z" />
+      <rect
+         style="fill:#080808;fill-opacity:1;stroke:none;stroke-width:1.00854;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2360"
+         width="0.94597811"
+         height="19.467907"
+         x="42.146824"
+         y="15.77607" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         d="m 58.525043,42.866058 0.04034,-1.642179 -15.634079,-23.8721 -0.06095,2.037514 z"
+         id="path2416"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="path2773"
+         style="fill:none;fill-opacity:0.553169;stroke:#000000;stroke-width:0.918521;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         d="m 53.516113,8.0331014 c -2.408069,0.6608338 -7.723824,2.4088076 -10.153902,5.5009566 -0.01609,0.02047 -0.03203,0.03858 -0.04806,0.05839 a 7.6918674,7.6918674 0 0 0 -0.180351,1.646411 7.6918674,7.6918674 0 0 0 7.69152,7.692037 7.6918674,7.6918674 0 0 0 7.692037,-7.692037 7.6918674,7.6918674 0 0 0 -5.001245,-7.2057616 z" />
+    </g>
+  </g>
+</svg>
