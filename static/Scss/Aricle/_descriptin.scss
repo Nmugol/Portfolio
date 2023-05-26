@@ -1,0 +1,18 @@
+@use "../Variable/index" as v;
+
+#description
+{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+
+    p
+    {
+        width: 31rem;
+        height: 31rem;
+
+        font-family: v.$lato;
+        font-size: 2rem;
+        text-align:center;
+    }
+}

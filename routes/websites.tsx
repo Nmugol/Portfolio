@@ -6,8 +6,15 @@ export default function Website() {
   return (
     <>
       <Header/>
-      <Bacgroun variab="bg1"/>
-      <Menu activ={1}/>
+        <Bacgroun variab="bg1"/>
+        <Menu activ={1}/>
+      <div id="content">
+        
+        <article>
+          <div id="gallery">
+          </div>
+        </article>
+      </div>
     </>
   );
 }

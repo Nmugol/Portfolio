@@ -6,8 +6,15 @@ export default function Buy() {
   return (
     <>
       <Header/>
-      <Bacgroun variab="bg3"/>
-      <Menu activ={3}/>
+        <Bacgroun variab="bg3"/>
+        <Menu activ={3}/>
+      <div id="content">
+        
+        <article>
+          <div id="gallery">
+          </div>
+        </article>
+      </div>
     </>
   );
 }
